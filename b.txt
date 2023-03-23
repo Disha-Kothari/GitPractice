@@ -1,7 +1,9 @@
 List of Fruits
 Apple
-Berries
 Watermealon
 Pinaple
 Pomgranate
 Banana
+Mango
+Grapes
+Berries
