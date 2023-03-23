@@ -1,0 +1,5 @@
+List of Vegetables from File C
+1> Spinach
+2>Cabbage
+3>BottleGuard
+4>Brinjal
